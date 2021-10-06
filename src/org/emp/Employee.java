@@ -27,6 +27,9 @@ public class Employee {
 		System.out.println("Employee address is pamban");
 
 	}
+	public void maven() {
+
+	}
 	public static void main(String[] args) {
 		Employee emp=new Employee();
 		emp.empName();
