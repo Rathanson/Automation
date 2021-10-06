@@ -27,7 +27,13 @@ public class Employee {
 		System.out.println("Employee address is pamban");
 
 	}
+
+	 public void maven() {
+		
+	}
+
 	public void cucumber() {
+
 
 	}
 	public static void main(String[] args) {
